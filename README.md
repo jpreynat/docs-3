@@ -8,7 +8,7 @@ We are a MERN-based application enabling real-time conversations between colleag
 
 This user guide incorporates a description of the features and capabilities, modes of operation, and step-by-step procedures for the Rocket.Chat platform access and use.
 
-Let's try an update from GitBook.
+Let's try a second update from GitBook.
 
 ## Setup your account
 
